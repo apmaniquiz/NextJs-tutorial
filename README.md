@@ -1,2 +1,1 @@
-# NextJs-tutorial
-Basic repo for self learning Next Js tech with React tech stack
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
